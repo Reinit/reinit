@@ -1,0 +1,10 @@
+I"o<p>The goal of global-restart fault tolerance (Reinit) is to provide an easy-to-use interface
+to improve the efficiency of checkpoint/restart in bulk synchronous applications by 
+reducing as much as possible the recovery time when failure occurs.</p>
+
+<h2 id="specification-documents">Specification documents:</h2>
+<ul>
+  <li><a href="#">Reinit 0.1.0</a></li>
+</ul>
+
+:ET
