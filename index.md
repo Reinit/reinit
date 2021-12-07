@@ -7,6 +7,7 @@ to improve the efficiency of checkpoint/restart in bulk synchronous applications
 reducing as much as possible the recovery time when failure occurs.
 
 ## Specification documents:
+- [Reinit 0.2.1](/docs/reinit-0.2.1.pdf)
 - [Reinit 0.2.0](/docs/reinit-0.2.0.pdf)
 - [Reinit 0.1.3](/docs/reinit-0.1.3.pdf)
 - [Reinit 0.1.2](/docs/reinit-0.1.2.pdf)
